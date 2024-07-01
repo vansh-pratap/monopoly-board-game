@@ -108,6 +108,11 @@ d. Print the sites left with the player
 
 13. If a player lands on a property owned by other player, then print the player’s name who has that property. Also, print the amount received by the owner. Finally, print the cash with players (with denominations if u r handling that)
 
+
+# Image used for board reference:
+![Monopoly board](https://github.com/vansh-pratap/monopoly-board-game/blob/main/monopoly%20classic.jpg)
+
+
 14. If player lands on a property owned by him, give him/her an option to construct a house if he/she is eligible. If not, print that
 
 15. In cash of jail, chance, and community chest, print what happens on landing on those sites.
